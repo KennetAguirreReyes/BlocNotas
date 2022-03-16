@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe.config
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\bin\Debug\BlockNotas.exe
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\bin\Debug\BlockNotas.pdb
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\obj\Debug\BlockNotas.Properties.Resources.resources
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\obj\Debug\BlockNotas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\obj\Debug\BlockNotas.exe
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\obj\Debug\BlockNotas.pdb
+C:\Users\usuario\source\repos\BlockNotas\BlockNotas\obj\Debug\BlockNotas.FrmBlock.resources
